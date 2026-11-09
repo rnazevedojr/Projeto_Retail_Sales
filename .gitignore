@@ -1,0 +1,22 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Variáveis de ambiente / credenciais
+.env
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
